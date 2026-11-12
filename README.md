@@ -14,7 +14,7 @@ GrabApe helps applications retrieve structured metadata, generate rich link prev
 ## API Documentation
 
 - [API Documentation](https://grabape.onrender.com/docs)
-- [RapidAPI Listing](https://grabape.p.rapidapi.com)
+- [RapidAPI Listing](https://rapidapi.com/ajayrossy340/api/grabape)
 
 ## Examples
 
