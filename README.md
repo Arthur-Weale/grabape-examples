@@ -32,7 +32,12 @@ GrabApe helps applications retrieve structured metadata, generate rich link prev
 
 ## Authentication
 
-Examples use placeholder API credentials. Replace `YOUR_GRABAPE_API_KEY` with your own API key.
+All examples require a GrabApe API key.
+
+- **cURL and JavaScript:** Replace `YOUR_GRABAPE_API_KEY` with your API key.
+- **Python:** Set the `GRABAPE_API_KEY` environment variable before running the example.
+
+Never commit real API keys, passwords, or other credentials to this repository.
 
 **Never commit real API keys or other credentials.**
 
