@@ -18,7 +18,17 @@ GrabApe helps applications retrieve structured metadata, generate rich link prev
 
 ## Examples
 
-Coming soon.
+### cURL
+- [Metadata extraction](curl/metadata-extraction.sh)
+- [Article extraction](curl/article-extraction.sh)
+
+### JavaScript
+- [Metadata extraction](javascript/metadata-extraction.js)
+- [Article extraction](javascript/article-extraction.js)
+
+### Python
+- [Metadata extraction](python/metadata_extraction.py)
+- [Article extraction](python/article_extraction.py)
 
 ## Authentication
 
